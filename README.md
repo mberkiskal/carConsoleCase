@@ -59,7 +59,7 @@ RUNNING THE PROJECT
 
 1)  Clone the repository:
 
-git clone https://github.com/mberkiskal/CarConsoleApplication.git 
+git clone https://github.com/mberkiskal/CarConsoleCase.git 
 
 cd CarConsoleApplication
 
