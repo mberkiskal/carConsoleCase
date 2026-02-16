@@ -90,16 +90,18 @@ BACKEND
 Open the solution file (CarConsoleApplication.sln) in Visual Studio or
 VS Code and run the API project.
 
-Swagger UI: http://localhost:5298/swagger/index.html
-API Base: http://localhost:5298
+- Swagger UI: http://localhost:5298/swagger/index.html
+
+- API Base: http://localhost:5298
 ------------------------------------------------------------------------
 
 FRONTEND
 
 Navigate to the frontend directory:
 
-cd frontend 
-npm install npm run dev
+- cd frontend 
+- npm install
+- npm run dev
 
 Frontend Dev URL: http://localhost:5173/
 
