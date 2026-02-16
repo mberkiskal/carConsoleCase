@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: carconsole-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: caruser
+      POSTGRES_PASSWORD: carpass123
+      POSTGRES_DB: carconsole_case
+    ports:
+      - "5432:5432"
+    volumes:
+      - carconsole_pgdata:/var/lib/postgresql/data
+
+volumes:
+  carconsole_pgdata:
