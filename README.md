@@ -36,9 +36,9 @@ client and improves maintainability.
 
 TECHNOLOGIES
 
-Backend: - ASP.NET Core Web API - Entity Framework Core - PostgreSQL
+Backend: - ASP.NET Core Web API - Entity Framework Core
 
-Frontend: - React - TypeScript - Vite - Leaflet (OpenStreetMap)
+Frontend: - React - TypeScript - Vite
 
 Database: - PostgreSQL - Docker
 
