@@ -40,7 +40,7 @@ Backend: - ASP.NET Core Web API - Entity Framework Core - PostgreSQL
 
 Frontend: - React - TypeScript - Vite - Leaflet (OpenStreetMap)
 
-Database: - PostgreSQL - Docker (optional)
+Database: - PostgreSQL - Docker
 
 ------------------------------------------------------------------------
 
